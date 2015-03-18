@@ -20,7 +20,9 @@ Copy & paste next URL into browser
 ### As HTML
 
 * http://localhost:6154/run?cmd=ls -al --color
-same as:
+
+or
+
 * http://localhost:6154/run?cmd=ls%20-al%20--color
 
 ### As raw data
@@ -38,5 +40,4 @@ Copy & paste next URL into browser
 Copy & paste next URL into browser
 
 * http://localhost:6154/run?cmd=./example_shell.sh James
-
 * http://localhost:6154/run?cmd=python example_python.py James
