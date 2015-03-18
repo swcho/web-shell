@@ -1,0 +1,13 @@
+{
+  "name": "doroci_tester",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "dependencies": {
+    "ansi-to-html": "^0.3.0",
+    "colors": "^1.0.3",
+    "express": "^4.12.2"
+  }
+}
