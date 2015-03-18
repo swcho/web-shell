@@ -1,24 +1,17 @@
 
-# Shell service
----
+# web-shell
 
 Shell service can run shell command or get a file via node js powered web server.
 
 # Install & Run
----
 
-```javascript
+```shell
+$ git clone https://github.com/swcho/web-shell.git; cd web-shell; npm install
 
-git clone []
-
-
-
-node app.js
-
+$ node app.js
 ```
 
 # Usages
----
 
 ## Run shell command
 
